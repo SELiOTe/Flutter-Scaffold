@@ -1,0 +1,482 @@
+{
+  "@@locale": "zh",
+  "@@last_modified": "2021-02-24T16:29:52.095011",
+  "title": "试衣间",
+  "@title": {
+    "description": "应用标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginTelLabel": "手机号码",
+  "@loginTelLabel": {
+    "description": "登录页手机号码输入框提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeLabel": "验证码",
+  "@loginVerifyCodeLabel": {
+    "description": "登录页验证码输入框提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeButton": "获取",
+  "@loginVerifyCodeButton": {
+    "description": "登录页获取验证码按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSubmitButton": "登录",
+  "@loginSubmitButton": {
+    "description": "登录页登录提交按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplaySuccess": "成功",
+  "@backendStatusDisplaySuccess": {
+    "description": "后台响应成功显示信息",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplayError": "服务器错误",
+  "@backendStatusDisplayError": {
+    "description": "后台响应错误显示信息",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusFrequent": "操作频率过高",
+  "@backendStatusFrequent": {
+    "description": "后台 API 调用频率过于频繁",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplayUnknown": "未知状态",
+  "@backendStatusDisplayUnknown": {
+    "description": "后台响应状态未知显示信息",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmButtonText": "确认",
+  "@confirmButtonText": {
+    "description": "确认按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "telNoFormatError": "手机号码格式错误",
+  "@telNoFormatError": {
+    "description": "手机号码格式错误提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginNewCaptchaButtonText": "换一张？",
+  "@loginNewCaptchaButtonText": {
+    "description": "登录页换一张验证码按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginCaptchaDialogTitle": "图形验证码",
+  "@loginCaptchaDialogTitle": {
+    "description": "登录页图形验证码弹窗标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSmsSendSuccess": "验证码发送成功",
+  "@loginSmsSendSuccess": {
+    "description": "登录页验证码发送成功文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSmsSendFailed": "验证码发送失败",
+  "@loginSmsSendFailed": {
+    "description": "登录页验证码发送失败文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginCaptchaError": "图形验证码错误，请重试",
+  "@loginCaptchaError": {
+    "description": "登录页图形验证码填写错误重新输入提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reLoginText": "请重新登录",
+  "@reLoginText": {
+    "description": "API 返回未授权，提示用户重新登录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "apiForbidden": "禁止访问",
+  "@apiForbidden": {
+    "description": "API 返回 403 Forbidden",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyCodeFormatError": "短信验证码格式错误",
+  "@verifyCodeFormatError": {
+    "description": "短信验证码格式错误文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "captchaCodeFormatError": "图形验证码格式错误",
+  "@captchaCodeFormatError": {
+    "description": "图形验证码格式错误文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeError": "短信验证码错误",
+  "@loginVerifyCodeError": {
+    "description": "登录短信验证码与服务器发送的不匹配",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMarketBottomBarText": "商场",
+  "@homeMarketBottomBarText": {
+    "description": "主页下方导航栏商场",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeDealerBottomBarText": "经销商",
+  "@homeDealerBottomBarText": {
+    "description": "主页下方导航栏经销商",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineBottomBarText": "我",
+  "@homeMineBottomBarText": {
+    "description": "主页下方导航栏我",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelButtonText": "取消",
+  "@cancelButtonText": {
+    "description": "取消按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeScanQrCodeFailed": "二维码扫描失败",
+  "@homeScanQrCodeFailed": {
+    "description": "主页二维码扫描失败提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanAppBarTitle": "扫描二维码",
+  "@scanAppBarTitle": {
+    "description": "二维码扫描页 AppBar 标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuOnlneService": "在线客服",
+  "@homeMineMenuOnlneService": {
+    "description": "主页下方导航栏我组件在线客服菜单标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuSetting": "设置",
+  "@homeMineMenuSetting": {
+    "description": "主页下方导航栏我组件设置菜单标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoAppBarTitle": "个人信息",
+  "@modifyInfoAppBarTitle": {
+    "description": "个人信息修改页标题栏",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoNickname": "昵称",
+  "@modifyInfoNickname": {
+    "description": "个人信息修改页昵称",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGender": "性别",
+  "@modifyInfoGender": {
+    "description": "个人信息修改页性别",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderMale": "男",
+  "@modifyInfoGenderMale": {
+    "description": "个人信息修改页性别男",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderFemale": "女",
+  "@modifyInfoGenderFemale": {
+    "description": "个人信息修改页性别女",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderUnknown": "未设置",
+  "@modifyInfoGenderUnknown": {
+    "description": "个人信息修改页性别未设置",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveButton": "保存",
+  "@saveButton": {
+    "description": "保存按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyAvatarAppBarTitle": "修改头像",
+  "@modifyAvatarAppBarTitle": {
+    "description": "修改头像页标题栏标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyAvatarModifyButton": "修改",
+  "@modifyAvatarModifyButton": {
+    "description": "修改头像页修改按钮文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropAvatarPageAppBarTitle": "裁剪",
+  "@cropAvatarPageAppBarTitle": {
+    "description": "裁剪头像页标题栏标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoImgTooSmall": "所选头像过小",
+  "@modifyInfoImgTooSmall": {
+    "description": "个人信息修改页所选头像过小提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoImgTooBig": "所选头像过大",
+  "@modifyInfoImgTooBig": {
+    "description": "个人信息修改页所选头像过大提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoNicknameIncorrect": "昵称格式不正确",
+  "@modifyInfoNicknameIncorrect": {
+    "description": "个人信息修改页昵称格式不正确提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderIncorrect": "性别格式不正确",
+  "@modifyInfoGenderIncorrect": {
+    "description": "个人信息修改页性别格式不正确提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveSuccessPrompt": "保存成功",
+  "@saveSuccessPrompt": {
+    "description": "保存成功 Snack Bar 提示字符",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unsavePrompt": "未保存",
+  "@unsavePrompt": {
+    "description": "未保存 Snack Bar 提示字符",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveFailedPrompt": "保存失败",
+  "@saveFailedPrompt": {
+    "description": "保存失败 Snack Bar 提示字符",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingAppBarTitle": "设置",
+  "@settingAppBarTitle": {
+    "description": "设置页 AppBar 标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingClearCache": "清空缓存",
+  "@settingClearCache": {
+    "description": "设置页清空缓存菜单名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingVersion": "版本",
+  "@settingVersion": {
+    "description": "设置页版本菜单名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingLogout": "退出登录",
+  "@settingLogout": {
+    "description": "设置页退出登录菜单名",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingClearCacheSuccess": "清空缓存成功",
+  "@settingClearCacheSuccess": {
+    "description": "设置页清空缓存成功提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuOrder": "订单",
+  "@homeMineMenuOrder": {
+    "description": "主页下方导航栏我组件订单菜单标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "moneySymbol": "￥",
+  "@moneySymbol": {
+    "description": "钱的符号",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDealerWillEarn": "经销商可获得：",
+  "@productDealerWillEarn": {
+    "description": "产品页经销商获利提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSelecting": "已选：",
+  "@productSelecting": {
+    "description": "产品页已选规格提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "none": "无",
+  "@none": {
+    "description": "无字符串",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentTitle": "评价（{howMany} 条）",
+  "@productCommentTitle": {
+    "description": "商品页评价框标题",
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "productCommentHowManyDaysAgo": "{howMany} 天前",
+  "@productCommentHowManyDaysAgo": {
+    "description": "商品页评价几天前提示",
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "productAddToCartText": "加入购物车",
+  "@productAddToCartText": {
+    "description": "产品页面加入购物车文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productBuyNowText": "立即购买",
+  "@productBuyNowText": {
+    "description": "产品页面立即购买文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorWhite": "白色",
+  "@productColorWhite": {
+    "description": "产品颜色白色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorBlack": "黑色",
+  "@productColorBlack": {
+    "description": "产品颜色黑色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorRed": "红色",
+  "@productColorRed": {
+    "description": "产品颜色红色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorOrange": "橙色",
+  "@productColorOrange": {
+    "description": "产品颜色橙色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorYellow": "黄色",
+  "@productColorYellow": {
+    "description": "产品颜色黄色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorGreen": "绿色",
+  "@productColorGreen": {
+    "description": "产品颜色绿色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorBlue": "蓝色",
+  "@productColorBlue": {
+    "description": "产品颜色蓝色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPurple": "紫色",
+  "@productColorPurple": {
+    "description": "产品颜色紫色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPink": "粉色",
+  "@productColorPink": {
+    "description": "产品颜色粉色",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPrompt": "颜色",
+  "@productColorPrompt": {
+    "description": "产品页颜色提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSizePrompt": "尺码",
+  "@productSizePrompt": {
+    "description": "产品页尺码提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "未知",
+  "@unknown": {
+    "description": "未知文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productStockPrompt": "库存",
+  "@productStockPrompt": {
+    "description": "产品页库存提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentNoComment": "暂无评论",
+  "@productCommentNoComment": {
+    "description": "产品评论页暂无评论提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentNoMore": "没有更多了",
+  "@productCommentNoMore": {
+    "description": "产品评论页没有更多了提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentLoading": "加载中",
+  "@productCommentLoading": {
+    "description": "产品评论页加载中提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartFailed": "添加至购物车失败",
+  "@productAddToCartFailed": {
+    "description": "产品页添加商品至购物车失败提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartNotSelect": "请先选择商品规格后再添加",
+  "@productAddToCartNotSelect": {
+    "description": "产品页添加商品至购物车未选择规格失败提示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartSuccess": "添加成功",
+  "@productAddToCartSuccess": {
+    "description": "产品页添加商品至购物车成功提示",
+    "type": "text",
+    "placeholders": {}
+  }
+}

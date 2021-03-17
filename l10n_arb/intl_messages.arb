@@ -1,0 +1,481 @@
+{
+  "@@last_modified": "2021-03-15T23:37:05.576877",
+  "title": "Fitting Room",
+  "@title": {
+    "description": "Application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginTelLabel": "Telephone Number",
+  "@loginTelLabel": {
+    "description": "Login page telephone number field label text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeLabel": "Verify Code",
+  "@loginVerifyCodeLabel": {
+    "description": "Login page verify code field label text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeButton": "Get",
+  "@loginVerifyCodeButton": {
+    "description": "Login page get verify code field button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSubmitButton": "Login",
+  "@loginSubmitButton": {
+    "description": "Login page login button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplaySuccess": "Success",
+  "@backendStatusDisplaySuccess": {
+    "description": "Backend response status display message for success",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplayError": "Server error",
+  "@backendStatusDisplayError": {
+    "description": "Backend response status display message for error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusFrequent": "Too frequent",
+  "@backendStatusFrequent": {
+    "description": "Backend API request frequent",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backendStatusDisplayUnknown": "Unknown status",
+  "@backendStatusDisplayUnknown": {
+    "description": "Backend response status display message for unknow",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmButtonText": "Confirm",
+  "@confirmButtonText": {
+    "description": "Confirm button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "telNoFormatError": "Telephone number format incorrect",
+  "@telNoFormatError": {
+    "description": "Telephone number format error promat text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginNewCaptchaButtonText": "New One?",
+  "@loginNewCaptchaButtonText": {
+    "description": "Login page request new one captcha button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginCaptchaDialogTitle": "Captcha",
+  "@loginCaptchaDialogTitle": {
+    "description": "Login page captcha dialog title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSmsSendSuccess": "Verify code send success",
+  "@loginSmsSendSuccess": {
+    "description": "Login page sms send success text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSmsSendFailed": "Verify code send failed",
+  "@loginSmsSendFailed": {
+    "description": "Login page sms send field text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginCaptchaError": "Captcha error, try again",
+  "@loginCaptchaError": {
+    "description": "Login page captcha input error, try again",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reLoginText": "Please relogin",
+  "@reLoginText": {
+    "description": "Unauthorized for API, tell user relogin",
+    "type": "text",
+    "placeholders": {}
+  },
+  "apiForbidden": "Forbidden",
+  "@apiForbidden": {
+    "description": "API return 403 forbidden",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyCodeFormatError": "Verify code format incorrect",
+  "@verifyCodeFormatError": {
+    "description": "Verify code format error promat text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "captchaCodeFormatError": "Captcha code format incorrect",
+  "@captchaCodeFormatError": {
+    "description": "Captcha code format error promat text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginVerifyCodeError": "Verify code error",
+  "@loginVerifyCodeError": {
+    "description": "Login verify code not match server send",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMarketBottomBarText": "Market",
+  "@homeMarketBottomBarText": {
+    "description": "Home page bottom bar market text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeDealerBottomBarText": "Dealer",
+  "@homeDealerBottomBarText": {
+    "description": "Home page bottom bar dealer text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineBottomBarText": "Mine",
+  "@homeMineBottomBarText": {
+    "description": "Home page bottom bar mine text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelButtonText": "Cancel",
+  "@cancelButtonText": {
+    "description": "Cancel button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeScanQrCodeFailed": "Faild to scan QR Code",
+  "@homeScanQrCodeFailed": {
+    "description": "Home page scan QR code failed text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanAppBarTitle": "Scan QR",
+  "@scanAppBarTitle": {
+    "description": "Scan page app bar title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuOnlneService": "Online Service",
+  "@homeMineMenuOnlneService": {
+    "description": "Home mine Online service menu title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuSetting": "Settings",
+  "@homeMineMenuSetting": {
+    "description": "Home mine setting menu title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoAppBarTitle": "Modify Info",
+  "@modifyInfoAppBarTitle": {
+    "description": "Modify information page app bar title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoNickname": "Nickname",
+  "@modifyInfoNickname": {
+    "description": "Modify information page nickname field",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGender": "Gender",
+  "@modifyInfoGender": {
+    "description": "Modify information page gender field",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderMale": "Male",
+  "@modifyInfoGenderMale": {
+    "description": "Modify information page gender male",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderFemale": "Female",
+  "@modifyInfoGenderFemale": {
+    "description": "Modify information page gender famale",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderUnknown": "Unset",
+  "@modifyInfoGenderUnknown": {
+    "description": "Modify information page gender unknown",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveButton": "Save",
+  "@saveButton": {
+    "description": "Save button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyAvatarAppBarTitle": "Modify Avatar",
+  "@modifyAvatarAppBarTitle": {
+    "description": "Modify avatar page app bar title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyAvatarModifyButton": "Modify",
+  "@modifyAvatarModifyButton": {
+    "description": "Modify avatar page modify button text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropAvatarPageAppBarTitle": "Crop",
+  "@cropAvatarPageAppBarTitle": {
+    "description": "Crop avatar page app bar title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoImgTooSmall": "Select avatar is too small",
+  "@modifyInfoImgTooSmall": {
+    "description": "Modify infomation page select avatar is too small",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoImgTooBig": "Select avatar is too big",
+  "@modifyInfoImgTooBig": {
+    "description": "Modify infomation page select avatar is too big",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoNicknameIncorrect": "Nickname pattern incorrect",
+  "@modifyInfoNicknameIncorrect": {
+    "description": "Modify infomation page nickname pattern incorrect",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifyInfoGenderIncorrect": "Gender pattern incorrect",
+  "@modifyInfoGenderIncorrect": {
+    "description": "Modify infomation page gender pattern incorrect",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveSuccessPrompt": "Save success",
+  "@saveSuccessPrompt": {
+    "description": "Sava success snack bar prompt text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unsavePrompt": "Unsaved",
+  "@unsavePrompt": {
+    "description": "Unsave snack bar prompt text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveFailedPrompt": "Save failed",
+  "@saveFailedPrompt": {
+    "description": "Sava failed snack bar prompt text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingAppBarTitle": "Settings",
+  "@settingAppBarTitle": {
+    "description": "Setting page app bar title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingClearCache": "Clear cache",
+  "@settingClearCache": {
+    "description": "Setting page clear cache menu name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingVersion": "Version",
+  "@settingVersion": {
+    "description": "Setting page version menu name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingLogout": "Logout",
+  "@settingLogout": {
+    "description": "Setting page logout menu name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingClearCacheSuccess": "Clear cache success",
+  "@settingClearCacheSuccess": {
+    "description": "Setting page clear cache success prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMineMenuOrder": "Order",
+  "@homeMineMenuOrder": {
+    "description": "Home mine order menu title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "moneySymbol": "$",
+  "@moneySymbol": {
+    "description": "Money symbol",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDealerWillEarn": "Dealer will earn: ",
+  "@productDealerWillEarn": {
+    "description": "Product page dealer will earn prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSelecting": "Selecting: ",
+  "@productSelecting": {
+    "description": "Product page selecting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "none": "None",
+  "@none": {
+    "description": "None string",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentTitle": "Comment({howMany})",
+  "@productCommentTitle": {
+    "description": "Product page comment title",
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "productCommentHowManyDaysAgo": "{howMany} days ago",
+  "@productCommentHowManyDaysAgo": {
+    "description": "Product page comment how many days ago prompt",
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "productAddToCartText": "Add to cart",
+  "@productAddToCartText": {
+    "description": "Product page add product to cart text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productBuyNowText": "Buy now",
+  "@productBuyNowText": {
+    "description": "Product page buy now text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorWhite": "White",
+  "@productColorWhite": {
+    "description": "Product color white",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorBlack": "Black",
+  "@productColorBlack": {
+    "description": "Product color black",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorRed": "Red",
+  "@productColorRed": {
+    "description": "Product color red",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorOrange": "Orange",
+  "@productColorOrange": {
+    "description": "Product color orange",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorYellow": "Yellow",
+  "@productColorYellow": {
+    "description": "Product color yellow",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorGreen": "Green",
+  "@productColorGreen": {
+    "description": "Product color green",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorBlue": "Blue",
+  "@productColorBlue": {
+    "description": "Product color blue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPurple": "Purple",
+  "@productColorPurple": {
+    "description": "Product color purple",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPink": "Pink",
+  "@productColorPink": {
+    "description": "Product color pink",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productColorPrompt": "Color",
+  "@productColorPrompt": {
+    "description": "Product page color prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productSizePrompt": "Size",
+  "@productSizePrompt": {
+    "description": "Product page size prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productStockPrompt": "stock",
+  "@productStockPrompt": {
+    "description": "Product page stock prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentNoMore": "No more",
+  "@productCommentNoMore": {
+    "description": "Product comment page no more prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentNoComment": "No comment",
+  "@productCommentNoComment": {
+    "description": "Product comment page no comment prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productCommentLoading": "Loading",
+  "@productCommentLoading": {
+    "description": "Product comment page no loading prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartFailed": "Add to cart faile",
+  "@productAddToCartFailed": {
+    "description": "Product page add to cart faild prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartNotSelect": "Please select product first",
+  "@productAddToCartNotSelect": {
+    "description": "Product page add to cart faild not select product prompt",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productAddToCartSuccess": "Add success",
+  "@productAddToCartSuccess": {
+    "description": "Product page add to cart success prompt",
+    "type": "text",
+    "placeholders": {}
+  }
+}
